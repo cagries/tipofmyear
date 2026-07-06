@@ -1,0 +1,6 @@
+fold,split,sample_id,label,label_index,group_id,group_index,cv_index,fname_placeholder,track,year,bandleader,pianist,jtd_300
+5,test,kellyw-autumnleaves-mcclurercobbj-1966-6319a440,Autumn Leaves,1,Wynton Kelly / Wynton Kelly,5,5,kellyw-autumnleaves-mcclurercobbj-1966-6319a440,Autumn Leaves,1966,Wynton Kelly,Wynton Kelly,false
+5,test,flanagant-likesomeoneinlove-tuckerbbaileyd-1961-d5cd9dde,Like Someone in Love,5,Tommy Flanagan / Tommy Flanagan,5,5,flanagant-likesomeoneinlove-tuckerbbaileyd-1961-d5cd9dde,Like Someone in Love,1961,Tommy Flanagan,Tommy Flanagan,true
+5,test,petersono-ongreendolphinstreet-brownrthigpene-1961-940fa118,On Green Dolphin Street,7,Oscar Peterson / Oscar Peterson,5,5,petersono-ongreendolphinstreet-brownrthigpene-1961-940fa118,On Green Dolphin Street,1961,Oscar Peterson,Oscar Peterson,false
+5,test,jamala-stellabystarlight-crosbyifournierv-1961-6601943f,Stella by Starlight,11,Ahmad Jamal / Ahmad Jamal,5,5,jamala-stellabystarlight-crosbyifournierv-1961-6601943f,Stella by Starlight,1961,Ahmad Jamal,Ahmad Jamal,false
+5,test,tynerm-yesterdays-sharpeascotta-1989-47615333,Yesterdays,15,McCoy Tyner / McCoy Tyner,5,5,tynerm-yesterdays-sharpeascotta-1989-47615333,Yesterdays,1989,McCoy Tyner,McCoy Tyner,true

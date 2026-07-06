@@ -1,0 +1,3 @@
+fold,split,sample_id,label,label_index,group_id,group_index,cv_index,fname_placeholder,track,year,bandleader,pianist,jtd_300
+6,test,hicksj-autumnleaves-drummondrmuhammadi-1990-17727f5d,Autumn Leaves,1,John Hicks / John Hicks,6,6,hicksj-autumnleaves-drummondrmuhammadi-1990-17727f5d,Autumn Leaves,1990,John Hicks,John Hicks,true
+6,test,evansb-stellabystarlight-johnsonmlabarberaj-1980-55c0e760,Stella by Starlight,11,Bill Evans / Bill Evans,6,6,evansb-stellabystarlight-johnsonmlabarberaj-1980-55c0e760,Stella by Starlight,1980,Bill Evans,Bill Evans,false

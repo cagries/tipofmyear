@@ -1,0 +1,62 @@
+{
+  "metadata_rows": 1294,
+  "normalized_titles": 858,
+  "selection": "min_distinct_groups",
+  "group_definition": "Bandleader / Pianist",
+  "min_groups": 4,
+  "seed": 1337,
+  "selected_classes": 16,
+  "selected_metadata_performances": 126,
+  "sampled_performances": 79,
+  "num_folds": 8,
+  "folds": [
+    {
+      "fold": 0,
+      "train_rows": 63,
+      "test_rows": 16,
+      "test_classes": 16
+    },
+    {
+      "fold": 1,
+      "train_rows": 63,
+      "test_rows": 16,
+      "test_classes": 16
+    },
+    {
+      "fold": 2,
+      "train_rows": 63,
+      "test_rows": 16,
+      "test_classes": 16
+    },
+    {
+      "fold": 3,
+      "train_rows": 63,
+      "test_rows": 16,
+      "test_classes": 16
+    },
+    {
+      "fold": 4,
+      "train_rows": 73,
+      "test_rows": 6,
+      "test_classes": 6
+    },
+    {
+      "fold": 5,
+      "train_rows": 74,
+      "test_rows": 5,
+      "test_classes": 5
+    },
+    {
+      "fold": 6,
+      "train_rows": 77,
+      "test_rows": 2,
+      "test_classes": 2
+    },
+    {
+      "fold": 7,
+      "train_rows": 77,
+      "test_rows": 2,
+      "test_classes": 2
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+fold,split,sample_id,label,label_index,group_id,group_index,cv_index,fname_placeholder,track,year,bandleader,pianist,jtd_300
+4,test,hawesh-autumnleaves-woodejclarkek-1958-ef338e87,Autumn Leaves,1,Hampton Hawes / Hampton Hawes,4,4,hawesh-autumnleaves-woodejclarkek-1958-ef338e87,Autumn Leaves,1958,Hampton Hawes,Hampton Hawes,false
+4,test,jamala-likesomeoneinlove-crosbyifournierv-1960-16d2bf10,Like Someone in Love,5,Ahmad Jamal / Ahmad Jamal,4,4,jamala-likesomeoneinlove-crosbyifournierv-1960-16d2bf10,Like Someone in Love,1960,Ahmad Jamal,Ahmad Jamal,false
+4,test,garlandr-ongreendolphinstreet-jonesspersipc-1961-b88d062a,On Green Dolphin Street,7,Red Garland / Red Garland,4,4,garlandr-ongreendolphinstreet-jonesspersipc-1961-b88d062a,On Green Dolphin Street,1961,Red Garland,Red Garland,false
+4,test,jonesh-stellabystarlight-mcbrideccobbj-2006-0b84c1a7,Stella by Starlight,11,Hank Jones / Hank Jones,4,4,jonesh-stellabystarlight-mcbrideccobbj-2006-0b84c1a7,Stella by Starlight,2006,Hank Jones,Hank Jones,false
+4,test,waltonc-thereisnogreaterlove-williamsdhigginsb-1992-c4cb26bd,There Is No Greater Love,12,Cedar Walton / Cedar Walton,4,4,waltonc-thereisnogreaterlove-williamsdhigginsb-1992-c4cb26bd,There Is No Greater Love,1992,Cedar Walton,Cedar Walton,false
+4,test,brownr-yesterdays-smithpbellsonl-1978-6357e74c,Yesterdays,15,Ray Brown / Paul Smith,4,4,brownr-yesterdays-smithpbellsonl-1978-6357e74c,Yesterdays,1978,Ray Brown,Paul Smith,false

@@ -1,0 +1,79 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tipofmyear"
+version = "0.1.0"
+description = "Jazz standard identification experiments using the Jazz Trio Database."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+authors = [
+    { name = "Cagri Eser" },
+]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/cagries/tipofmyear"
+Paper = "https://arxiv.org/abs/2607.00777"
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8",
+]
+audio = [
+    "mirdata",
+    "librosa",
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "soundfile",
+    "torch",
+    "torchaudio",
+]
+tracking = [
+    "wandb",
+]
+mert = [
+    "accelerate",
+    "huggingface_hub",
+    "transformers",
+]
+muq = [
+    "muq",
+]
+notebook = [
+    "ipykernel",
+    "ipywidgets",
+    "jupyterlab",
+    "matplotlib",
+    "pandas",
+]
+all = [
+    "pytest>=8",
+    "mirdata",
+    "librosa",
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "soundfile",
+    "torch",
+    "torchaudio",
+    "wandb",
+    "accelerate",
+    "huggingface_hub",
+    "transformers",
+    "muq",
+    "ipykernel",
+    "ipywidgets",
+    "jupyterlab",
+    "matplotlib",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

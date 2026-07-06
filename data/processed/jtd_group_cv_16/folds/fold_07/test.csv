@@ -1,0 +1,3 @@
+fold,split,sample_id,label,label_index,group_id,group_index,cv_index,fname_placeholder,track,year,bandleader,pianist,jtd_300
+7,test,drewk-autumnleaves-rstednqueena-1988-23c5fddd,Autumn Leaves,1,Kenny Drew / Kenny Drew,7,7,drewk-autumnleaves-rstednqueena-1988-23c5fddd,Autumn Leaves,1988,Kenny Drew,Kenny Drew,false
+7,test,hicksj-stellabystarlight-drummondrsmittym-1993-5509efbe,Stella by Starlight,11,John Hicks / John Hicks,7,7,hicksj-stellabystarlight-drummondrsmittym-1993-5509efbe,Stella by Starlight,1993,John Hicks,John Hicks,true
